@@ -1,0 +1,5 @@
+access_key = "AKIAIHVUOTIQRH24NQOQ"
+secret_key = "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"
+region     = "ap-south-1"
+ami_id     = "ami-d6f38cb9"
+vpc_cidr   = "172.16.32.0/27"
